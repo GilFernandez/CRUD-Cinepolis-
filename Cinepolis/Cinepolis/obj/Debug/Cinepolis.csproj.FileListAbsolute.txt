@@ -1,0 +1,38 @@
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe.config
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\bin\Debug\Cinepolis.pdb
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csprojAssemblyReference.cache
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Form1.resources
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Properties.Resources.resources
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csproj.GenerateResource.cache
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.exe
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.pdb
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Pagina_inicio.resources
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Empleados.resources
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Pelicula.resources
+C:\Users\gilfe\Desktop\TEC\Desarrollo e Implementacion\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Sala.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe.config
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\bin\Debug\Cinepolis.pdb
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Empleados.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Form1.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Pagina_inicio.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Pelicula.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Properties.Resources.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Sala.resources
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.exe
+C:\Users\adria\Desktop\Universidad\Semestre 6\Administracion y gestion de diseno de software\Cinepolis\Cinepolis\obj\Debug\Cinepolis.pdb
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csprojAssemblyReference.cache
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Form1.resources
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Pelicula.resources
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.Properties.Resources.resources
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csproj.GenerateResource.cache
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.csproj.CoreCompileInputs.cache
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.exe
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\obj\Debug\Cinepolis.pdb
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe.config
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\bin\Debug\Cinepolis.exe
+C:\Users\gilfe\Downloads\Cinepolis\Cinepolis\bin\Debug\Cinepolis.pdb
